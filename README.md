@@ -1,7 +1,7 @@
 #Spam Classification & Language ID
 
 **Name:** Anvith Vobbilisetty  
-**SID:** 1988935
+
 
 ## What’s Included
 - **`main.ipynb`** — single notebook that trains & evaluates all models.
