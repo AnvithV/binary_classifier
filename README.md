@@ -1,4 +1,4 @@
-# HW2 — Spam Classification & Language ID
+#Spam Classification & Language ID
 
 **Name:** Anvith Vobbilisetty  
 **SID:** 1988935
