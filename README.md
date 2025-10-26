@@ -1,6 +1,6 @@
 #Spam Classification & Language ID
 
-**Name:** Anvith Vobbilisetty  
+**Author:** Anvith Vobbilisetty  
 
 
 ## What’s Included
